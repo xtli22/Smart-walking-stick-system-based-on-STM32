@@ -1,1 +1,2 @@
-# Smart-walking-stick-system-based-on-STM32
+# 基于STM32的智能拐杖
+
